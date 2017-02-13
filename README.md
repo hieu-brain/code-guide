@@ -35,6 +35,7 @@ Translations are maintained by their creators and may not always be up to date w
 - [Russian](http://sadcitizen.github.io/code-guide/) - Translated by [Eugene Abrosimov](https://github.com/sadcitizen)
 - [Spanish](http://adrianayala.mx/code-guide/es/) - Translated by [Adrian Ayala](http://adrianayala.mx/)
 - [Turkish](http://kod-rehberi.hayatbiralem.com/) - Translated by [Ömür Yanıkoğlu](http://hayatbiralem.com/)
+- [Vietnamese](http://hieu-brain.github.io/code-guide) - Translated by [Nguyen Ngoc Hieu](https://github.com/hieu-brain)
 
 Have a translation you'd like to link to? Open a pull request to add it here. Be sure to keep it alphabetical.
 
